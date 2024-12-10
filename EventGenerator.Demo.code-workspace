@@ -1,0 +1,10 @@
+{
+    "folders": [
+        {
+            "path": "EventGenerator.Demo"
+        }
+    ],
+    "settings": {
+        "dotnet.defaultSolution": "EventGenerator.sln"
+    },
+}
